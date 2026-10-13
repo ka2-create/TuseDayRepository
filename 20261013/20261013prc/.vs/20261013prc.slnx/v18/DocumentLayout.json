@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2D90CD-7883-4FF4-AB52-36C8A66A5377}|20261013prc\\20261013prc.vcxproj|C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB2D90CD-7883-4FF4-AB52-36C8A66A5377}|20261013prc\\20261013prc.vcxproj|solutionrelative:20261013prc\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2D90CD-7883-4FF4-AB52-36C8A66A5377}|20261013prc\\20261013prc.vcxproj|C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB2D90CD-7883-4FF4-AB52-36C8A66A5377}|20261013prc\\20261013prc.vcxproj|solutionrelative:20261013prc\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2D90CD-7883-4FF4-AB52-36C8A66A5377}|20261013prc\\20261013prc.vcxproj|C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB2D90CD-7883-4FF4-AB52-36C8A66A5377}|20261013prc\\20261013prc.vcxproj|solutionrelative:20261013prc\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2D90CD-7883-4FF4-AB52-36C8A66A5377}|20261013prc\\20261013prc.vcxproj|C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB2D90CD-7883-4FF4-AB52-36C8A66A5377}|20261013prc\\20261013prc.vcxproj|solutionrelative:20261013prc\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2D90CD-7883-4FF4-AB52-36C8A66A5377}|20261013prc\\20261013prc.vcxproj|C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB2D90CD-7883-4FF4-AB52-36C8A66A5377}|20261013prc\\20261013prc.vcxproj|solutionrelative:20261013prc\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2D90CD-7883-4FF4-AB52-36C8A66A5377}|20261013prc\\20261013prc.vcxproj|C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Boss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB2D90CD-7883-4FF4-AB52-36C8A66A5377}|20261013prc\\20261013prc.vcxproj|solutionrelative:20261013prc\\Boss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2D90CD-7883-4FF4-AB52-36C8A66A5377}|20261013prc\\20261013prc.vcxproj|C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB2D90CD-7883-4FF4-AB52-36C8A66A5377}|20261013prc\\20261013prc.vcxproj|solutionrelative:20261013prc\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Character.h",
+              "RelativeDocumentMoniker": "20261013prc\\Character.h",
+              "ToolTip": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Character.h",
+              "RelativeToolTip": "20261013prc\\Character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-13T05:31:26.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Player.cpp",
+              "RelativeDocumentMoniker": "20261013prc\\Player.cpp",
+              "ToolTip": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Player.cpp",
+              "RelativeToolTip": "20261013prc\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-13T05:24:28.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Character.cpp",
+              "RelativeDocumentMoniker": "20261013prc\\Character.cpp",
+              "ToolTip": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Character.cpp",
+              "RelativeToolTip": "20261013prc\\Character.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-13T05:22:17.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Enemy.h",
+              "RelativeDocumentMoniker": "20261013prc\\Enemy.h",
+              "ToolTip": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Enemy.h",
+              "RelativeToolTip": "20261013prc\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-13T05:22:12.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Player.h",
+              "RelativeDocumentMoniker": "20261013prc\\Player.h",
+              "ToolTip": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Player.h",
+              "RelativeToolTip": "20261013prc\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-13T05:21:43.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Boss.h",
+              "DocumentMoniker": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Boss.h",
+              "RelativeDocumentMoniker": "20261013prc\\Boss.h",
+              "ToolTip": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Boss.h",
+              "RelativeToolTip": "20261013prc\\Boss.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-13T05:20:43.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Main.cpp",
+              "RelativeDocumentMoniker": "20261013prc\\Main.cpp",
+              "ToolTip": "C:\\Users\\kaime\\OneDrive\\Desktop\\TuseDayRepository\\20261013\\20261013prc\\20261013prc\\Main.cpp",
+              "RelativeToolTip": "20261013prc\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-13T04:24:04.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
